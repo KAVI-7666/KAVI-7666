@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kavishwar<br><br>I’m a Data Science enthusiast and developer who loves turning data into meaningful insights and building intelligent applications powered by AI.<br><br>🧠 About Me<br>📊 Passionate about Data Science, Machine Learning, and AI<br>🧩 Strong interest in solving real-world problems using data<br>💻 Also experienced in full-stack development (React + Django)<br>🚀 Building projects that combine data + applications<br>🔬 What I’m Working On<br>🧠 AI Notes & Drawing App (Text + Shape Recognition)<br> Career Goal<br><br>To become a Data Scientist / Machine Learning Engineer and build impactful AI-driven systems that solve real-world challenges.
+👋 Hi, I'm Kavishwar<br><br>I’m a Data Science enthusiast and developer who loves turning data into meaningful insights and building intelligent applications powered by AI.<br><br>🧠 About Me<br>📊 Passionate about Data Science, Machine Learning, and AI<br>🧩 Strong interest in solving real-world problems using data<br>💻 Also experienced in full-stack development (React + Django)<br>🚀 Building projects that combine data + applications<br> Career Goal<br><br>To become a Data Scientist / Machine Learning Engineer and build impactful AI-driven systems that solve real-world challenges.
 
 
 ## 🌐 Socials:
